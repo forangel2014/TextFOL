@@ -1,6 +1,6 @@
 import json
-from base import Constant
-from mytoken import Token
+from logic.base import Constant
+from logic.mytoken import Token
 from utils.vocab import word_norm
 from abc import ABCMeta, abstractmethod
 
